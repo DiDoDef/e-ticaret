@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: 
+Disallow: /hesabim
+Disallow: /compair
+Disallow: /product_summary
+
+Sitemap: http://madeneme.epizy.com/sitemap.xml
